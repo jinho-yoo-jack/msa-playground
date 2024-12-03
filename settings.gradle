@@ -1,0 +1,4 @@
+rootProject.name = 'msa-study'
+include 'core'
+include 'order-service'
+include 'config-service'
